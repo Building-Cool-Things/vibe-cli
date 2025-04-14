@@ -1,0 +1,1 @@
+API_URL= f"http://localhost:8000"
